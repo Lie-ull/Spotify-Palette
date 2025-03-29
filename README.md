@@ -1,8 +1,9 @@
 # Spotify-Palette
 A web application that extracts dominant colors from album artwork. This tool allows you to search for albums or view your currently playing track and see the most prominent colors in the album cover. 
 
+![Screenshot 2025-03-28 193018](https://github.com/user-attachments/assets/a1e3a160-7eef-452f-abd8-b72aa16bcbcc)
 
-![Screenshot 2025-03-28 184911](https://github.com/user-attachments/assets/d938711f-91d2-428c-b786-513f5d0fd248)
+
 
 # Features
 - Search for any album on Spotify.
